@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #  Web scraping a Rotten Tomatoes page
+# #  Anu
 
 # ## Import the relevant libraries
 
